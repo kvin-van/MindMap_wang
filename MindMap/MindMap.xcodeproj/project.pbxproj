@@ -14,6 +14,7 @@
 		7C2C9AD52C93E50900DC1802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C2C9AD42C93E50900DC1802 /* Assets.xcassets */; };
 		7C2C9AD82C93E50900DC1802 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7C2C9AD72C93E50900DC1802 /* Base */; };
 		7C2C9AE02C93E53900DC1802 /* DetailMindMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2C9ADF2C93E53900DC1802 /* DetailMindMapView.swift */; };
+		7CBB78422CD485A5001F73FA /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBB78412CD485A5001F73FA /* map.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7C2C9AD72C93E50900DC1802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C2C9AD92C93E50900DC1802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C2C9ADF2C93E53900DC1802 /* DetailMindMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailMindMapView.swift; sourceTree = "<group>"; };
+		7CBB78412CD485A5001F73FA /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7C2C9ACF2C93E50700DC1802 /* ViewController.swift */,
 				7C2C9ADF2C93E53900DC1802 /* DetailMindMapView.swift */,
 				7C2C9AD12C93E50700DC1802 /* Main.storyboard */,
+				7CBB78412CD485A5001F73FA /* map.png */,
 				7C2C9AD42C93E50900DC1802 /* Assets.xcassets */,
 				7C2C9AD62C93E50900DC1802 /* LaunchScreen.storyboard */,
 				7C2C9AD92C93E50900DC1802 /* Info.plist */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CBB78422CD485A5001F73FA /* map.png in Resources */,
 				7C2C9AD52C93E50900DC1802 /* Assets.xcassets in Resources */,
 				7C2C9AD82C93E50900DC1802 /* Base in Resources */,
 				7C2C9AD32C93E50700DC1802 /* Base in Resources */,
