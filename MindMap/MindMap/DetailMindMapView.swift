@@ -136,7 +136,7 @@ class DetailMindMapView: UIView {
                 step3Flag = -1
             }
             else if string.hasPrefix("    ") || string.hasPrefix("  - ") || string.hasPrefix(" - "){
-                if children2Arr.count > step2Flag{
+                if children2Arr.count > step2Flag && step2Flag > 0{
                     var node22 = children2Arr[step2Flag]
                     var string3 = string.replacingOccurrences(of: "*", with: "")
                     string3 = string3.replacingOccurrences(of: "  ", with: "")
